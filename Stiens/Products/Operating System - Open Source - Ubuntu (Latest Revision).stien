@@ -1,0 +1,24 @@
+Name: Operating System - Open Source - Ubuntu (Latest Revision)
+Author: Ubuntu Coding Team's <contact@ubuntu.com>
+Publisher: Gc. Fault Jenny Samantha Xaa <wishcraft@users.sourceforge.net>
+Mode: Distribution + Installation + Deployment + Sample
+Scope: All
+Tokens: +0
+[ gnu-org::: Operating System:: Open Source: Ubuntu:: Latest Revision::: @Ubuntu:::: ubuntu-com::::: Operating System ]:[\+\]:[/+/]
+ -- [ TRXAYE ]:[ Click ]
+ -- [ gnu-org:: Ubuntu: 32Bit Releases:: Latest Revision::: @Ubuntu:::: ubuntu-com::::: Operating System ]:[\+\]:[/+/]
+    -- [ TRXAYE ]:[ Click ]
+ -- [ gnu-org:: Ubuntu: 64Bit Releases:: Latest Revision::: @Ubuntu:::: ubuntu-com::::: Operating System ]:[\+\]:[/+/]
+    -- [ TRXAYE ]:[ Click ]
+ -- [ gnu-org:: Ubuntu: ARM Releases:: Latest Revision::: @Ubuntu:::: ubuntu-com::::: Operating System ]:[\+\]:[/+/]
+    -- [ TRXAYE ]:[ Click ]
+ -- [ gnu-org:: Ubuntu: Repository:: Latest Revision::: @Ubuntu:::: ubuntu-com::::: Operating System ]:[\+\]:[/+/]
+    -- [ TRXAYE ]:[ Click ]
+    -- [ Document Identities ]:[ AYE ]
+       -- [ TRXAYE ]:[ Click ]
+ -- [ gnu-org:: Ubuntu: Website + Portal:: Latest Revision::: @Ubuntu:::: ubuntu-com::::: Operating System ]:[\+\]:[/+/]
+    -- [ TRXAYE ]:[ Click ]
+ -- [ gnu-org:: Ubuntu: Help + Support + Knowledgebase:: Latest Revision::: @Ubuntu:::: ubuntu-com::::: Operating System ]:[\+\]:[/+/]
+    -- [ TRXAYE ]:[ Click ]
+ -- [ gnu-org:: Ubuntu: 3rd Party Support + Contributors:: Latest Revision::: @Ubuntu:::: ubuntu-com::::: Operating System ]:[\+\]:[/+/]
+    -- [ TRXAYE ]:[ Click ]
