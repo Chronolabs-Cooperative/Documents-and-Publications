@@ -1,6 +1,8 @@
 Name: labs.coop - @ChronolabsCoop - Chronologistic + Chronographics
 Category: Stienheader
 Subcategory: Organisations
+Level: 3
+Order: 3
 Class: Resource + Logistics + Shipping + Routing + Mail + eMail
 Author: Gc. Fault Jenny Samantha Xaa <wishcraft@users.sourceforge.net>
 Token: +4.12
